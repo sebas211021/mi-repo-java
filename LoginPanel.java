@@ -1,5 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
+// esta bien
 
 public class LoginPanel extends JPanel {
 
